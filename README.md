@@ -8,7 +8,8 @@
 
 - 🔭 I’m currently working on **NestJS / MERN Stack / TypeScript**
 - 🌱 I’m currently learning **Docker / AWS**
-- 🎓 Studied Computer Science at Fast National University of Computer and Emerging Sciences
+- 🎓 Master’s student in Data Science at UHasselt, Belgium 🇧🇪
+- 🎓 Studied a Bachelor’s in Computer Science at Fast National University of Computer and Emerging Sciences
 - ❤️ I’m looking to collaborate on open source projects
 - 💬 Ask me about **React, Express, NestJS, Python, Docker**
 
@@ -39,12 +40,6 @@
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - ⌨️
   ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
-## 📈 My GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ismaildev7&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
 
 ## 🤝🏻 Connect with Me
 
