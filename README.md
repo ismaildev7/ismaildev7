@@ -19,7 +19,6 @@
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=white)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-
 - 🎨
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
   ![Next.js](https://img.shields.io/badge/next.js-333333?style=flat&logo=nextdotjs&logoColor=white)
@@ -29,19 +28,15 @@
   ![TailwindCSS](https://img.shields.io/badge/-tailwindcss-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
-
 - 🛢
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-
 - 🐳
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-
 - 📝
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-
 - ⌨️
   ![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
